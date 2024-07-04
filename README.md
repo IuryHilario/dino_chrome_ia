@@ -1,1 +1,1 @@
-# dino_chrome_ia
+# Jogo do Dinossauro do Chrome com Inteligência Arificial
